@@ -1,0 +1,17 @@
+Doctor-Patient-Portal
+│
+├── src/main/java
+│   ├── com.hms.admin.servlet       # Admin-related servlets
+│   ├── com.hms.dao                 # Data Access Objects (DAO)
+│   ├── com.hms.db                  # Database connectivity classes
+│   ├── com.hms.doctor.servlet      # Doctor module servlets
+│   ├── com.hms.entity              # JavaBeans / POJO classes
+│   └── com.hms.user.servlet        # User (patient) servlets
+│
+├── src/main/webapp
+│   ├── admin                       # Admin JSP pages
+│   ├── component                   # Reusable header/footer components
+│   ├── doctor                      # Doctor JSP pages
+│   ├── img                         # Images🛠 Technologies Used
+Backend
+
